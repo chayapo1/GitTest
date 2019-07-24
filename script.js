@@ -5,4 +5,5 @@
   alert('morning');
   alert('everyone');
   alert('111');
+  alert('222');
 })
