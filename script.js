@@ -3,4 +3,5 @@
   alert('world');
   alert('good');
   alert('morning');
+  alert('everyone');
 })
